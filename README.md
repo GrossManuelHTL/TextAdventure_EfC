@@ -4,7 +4,7 @@ by Michael Oswald and Manuel Gross
 
 how to play:
 
-start. -> starts the game loop
+start. -> starts the game loop \n
 hilfe. -> provides a list of commands to use
 
 how to win:
