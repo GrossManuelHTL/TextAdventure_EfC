@@ -1,13 +1,32 @@
-# TextAdventure Start Wars: Escape from the Chimaera
-
 by Michael Oswald and Manuel Gross
 
-how to play:
+# Spielanleitung
 
-start. -> starts the game loop.
+## Ziel
+Entkomme vom Sternenzerstoerer Chimaera bevor die Zeit ablaeuft (25 Runden).
 
-hilfe. -> provides a list of commands to use.
+## Spielstart
+1. Starte mit: `start.`
+2. Waehle einen Charakter (1., 2. oder 3.)
 
-how to win:
+## Grundbefehle
+- `gehe.` - Bewegung (in der nächsten Zeile dann z.B. `korridor.`)
+- `schaue.` - Ort untersuchen
+- `nimm.` - Gegenstand aufheben (dann Gegenstand eingeben)
+- `nutze.` - Objekt verwenden (dann Objekt eingeben, auch Chopper kann genutzt werden)
+- `inventar.` - Inventar anzeigen
+- `hilfe.` - Befehle anzeigen
 
-get to your shuttle before the time runs up!
+## Wichtige Orte
+- Zelle
+- Korridor
+- Waffenkammer 
+- Kommandozentrale
+- Hangar
+- Shuttle
+
+## Wichtig
+- Ohne ein gewisses Item kann Chopper nicht hacken
+- Sturmtruppen können nur mit der richtigen Kampfentscheidung besiegt werden
+- Jede Aktion kostet 1 Zeiteinheit
+
